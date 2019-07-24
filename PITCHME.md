@@ -11,9 +11,6 @@ theme : sky
 
 ### グラフやチャートの表示
 
-#スライドのページ数表示の設定
-slide-number: true
-
 <canvas data-chart="radar">
 
 
