@@ -1,7 +1,8 @@
-### こんにちは！
-
 #テーマの設定
 theme : sky
+
+### こんにちは！
+
 
 これはサンプルのスライドです資料です。
 
@@ -10,6 +11,8 @@ theme : sky
 
 ### グラフやチャートの表示
 
+#スライドのページ数表示の設定
+slide-number: true
 
 <canvas data-chart="radar">
 
