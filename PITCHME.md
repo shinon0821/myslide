@@ -10,6 +10,12 @@
 
 ### 3枚目のスライド
 
+- Java
+- JavaScript
+- Kotlin
+- Go
+- Scala
+
 ---
 
 ### 終わり
